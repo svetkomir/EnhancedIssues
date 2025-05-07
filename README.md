@@ -5,4 +5,4 @@ Add issues for missing features, broken things, crashes etc. Attach screenshots,
 
 Svet
 
-[Wishlist, please!](steam://openurl/https://store.steampowered.com/app/3288420/Enhanced_Vengeance/)
+[Wishlist, please!](https://store.steampowered.com/app/3288420/Enhanced_Vengeance/)
