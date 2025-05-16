@@ -5,7 +5,7 @@ Add issues for missing features, broken things, crashes etc. Attach screenshots,
 
 ## Steps to reproduce
 
-This is probably the most valuable information. If you can confirm the steps to reproduce the problem and list them I will be very grateful.
+This is probably the most valuable information. If you can confirm the steps to reproduce the problem and list them, along with the other information, I will be very grateful.
 
 ## Logs
 Location of logs: `<install directory>\Enhanced\Saved\Logs`
