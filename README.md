@@ -3,6 +3,16 @@ This is a repository used to track Enhanced: Vengeance issues.
 
 Add issues for missing features, broken things, crashes etc. Attach screenshots, save game files, logs and provide as complete description and steps to reproduce as possible. Thank you! 
 
+## Logs
+Location of logs: <app root>\Enhanced\Saved\Logs
+
+## Save game files
+Location of saved games: <app root>\Enhanced\Saved\SaveGames
+
+`SaveGameMetadata.json` contains information about which slot corresponds to which save game name in-game. The SlotX.sav is the actual file that you need to attach. 
+
+Alternatively just zip all the files in that folder and attach them and specify the save name in the issue - I'll sort them out.
+
 Svet
 
 [Wishlist, please!](https://store.steampowered.com/app/3288420/Enhanced_Vengeance/)
